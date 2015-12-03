@@ -1,0 +1,9 @@
+Projet IRF 2015
+ INSA RENNES
+Pictogram extracted by Kevin, Antoine, Josselin & François
+Label accident
+Form 00000
+Scripter 000
+Page 00
+Row 0
+Column 3
